@@ -16,3 +16,11 @@ This project automates the process of launching an EC2 instance using a Lambda f
 
 ## Architecture
 Client → API Gateway → AWS Lambda → EC2 Launch
+
+## Include:
+- Lambda function setup 
+- API Gateway trigger 
+- API URL result showing instance ID 
+- EC2 console confirming instance launch
+
+  
